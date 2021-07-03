@@ -1,0 +1,27 @@
+.env
+.devcontainer
+.vscode/
+backend/app/app/uploaded_files
+uploaded_files
+backups
+acme.json
+tiles
+redis
+frontend/~/chromeTemp
+.vscode/*
+!.vscode/ecoteka.code-snippets
+!.vscode/settings.json
+!.vscode/i18n-ally-custom-framework.json
+.expo
+data.ms
+node_modules
+.next
+.vercel
+.now
+.env.local
+
+.DS_Store
+
+# Lock files
+yarn.lock
+package-lock.json
